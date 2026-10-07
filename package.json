@@ -1,0 +1,13 @@
+{
+  "name": "briefflow",
+  "version": "1.0.0",
+  "description": "BriefFlow - AI Meeting-to-Project CRM",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": ["crm", "ai", "meeting-to-project", "react", "express", "mongodb"],
+  "author": "",
+  "license": "ISC"
+}
