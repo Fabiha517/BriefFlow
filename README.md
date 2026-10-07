@@ -4,9 +4,9 @@
 
 ## Team
 
-* **Team name:** Solo Developer
-* **Developer:** Fabiha Hassan
-* **Repository:** [Add GitHub repository URL]
+* **Team name:** We Tried
+* **Developer:** Fabiha,Azka,Sannia,Abeera
+
 
 ## What Works
 
